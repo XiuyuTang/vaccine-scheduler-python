@@ -27,3 +27,4 @@ class ConnectionManager:
             print("Database Programming Error in SQL connection processing! ")
             print(db_err)
             quit()
+print()
